@@ -1,0 +1,1 @@
+[[Python]] https://stackoverflow.com/questions/64730660/how-do-i-find-excute-python-interactive-mode-in-visual-studio-code
